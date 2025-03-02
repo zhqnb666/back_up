@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{二分图边染色}{3}{0}{1}
+\beamer@sectionintoc {2}{一般图点染色}{17}{0}{2}
